@@ -1,6 +1,3 @@
-/**
- * Created by BALASUBRAMANIAM on 07-07-2017.
- */
 var fs = require('fs');
 
 // function to encode file data to base64 encoded string
